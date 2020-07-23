@@ -1,6 +1,7 @@
 # Text Analysis API
 
 *This project forms part of our developer interview process.*
+*Unfortunately, we can only provide high level feedback for any submissions we receive.*
 
 ## Background
 
@@ -66,7 +67,7 @@ The API specification also contains and example request:
 
 The version of the API in this repository has been developed by a junior member of the team. You have been asked to perform a thorough review of the current codebase. Comment on the good and bad aspects of the code. For any issues you find, make a note of the steps you would take to fix the problem. It is **NOT** necessary to actually implement any fixes you suggest. You can provide your review as a text or markdown file. We are more concerned with the content and structure of your review than its appearance.
 
-Note: The API does not authenticate its clients. This is to keep the amount of code we are asking you to review to a minimum. You can assume that this is not a public API and that the API perfectly authenticates its clients.
+*Note: The API does not authenticate its clients. This is to keep the amount of code we are asking you to review to a minimum. You can assume that this is not a public API and that the API perfectly authenticates its clients.*
 
 ### Tips
 
